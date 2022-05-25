@@ -1,2 +1,3 @@
 # Data_mining
-Projet LSTAT
+Projet LSTAT2120 linear model
+written with sas
